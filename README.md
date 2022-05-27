@@ -44,7 +44,9 @@ To perform an analysis of precipitation in the area, do the following:
 
 * Sort the DataFrame values by `date`.
 
-* Plot the results by using the DataFrame `plot` method
+* Plot the results by using the DataFrame `plot` method, as shown in the following image:
+
+  ![precipitation](Images/precipitation.png)
 
  
 
