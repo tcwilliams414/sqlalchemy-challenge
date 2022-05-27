@@ -10,7 +10,7 @@
 
 4. Push the changes to GitHub or GitLab.
 
-![surfs-up.png](Images/surfs-up.png)
+
 
 ## Instructions
 
@@ -44,9 +44,9 @@ To perform an analysis of precipitation in the area, do the following:
 
 * Sort the DataFrame values by `date`.
 
-* Plot the results by using the DataFrame `plot` method, as shown in the following image:
+* Plot the results by using the DataFrame `plot` method
 
-  ![precipitation](Images/precipitation.png)
+ 
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
@@ -74,8 +74,7 @@ To perform an analysis of stations in the area, do the following:
 
     * Plot the results as a histogram with `bins=12`, as shown in the following image:
 
-    ![station-histogram](Images/station-histogram.png)
-
+   
 * Close out your session.
 
 - - -
